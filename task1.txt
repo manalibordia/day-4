@@ -1,0 +1,6 @@
+1. Install Eclipse
+2. jre install
+3. error httpservlet cannot be resolved
+4. downloaded servlet api jar
+5. added jar
+6. downloaded mysql
